@@ -10,7 +10,7 @@
 
 import numpy as np 
 
-"""
+
 #printing an array
 a = np.array([1,2,3])
 print(a)
@@ -1606,7 +1606,6 @@ print('\n')
 
 
 
-"""
 
 
 
