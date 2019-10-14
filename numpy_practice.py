@@ -1,7 +1,7 @@
 #Created by Yash Bhardwaj 
 
 #NUMPY TUTORIAL
-
+#Date Created : August 8 2019
 
 #Comment out the piece of code you dont want to run and check in the compiler as you read it.
 #PS - I know I should have written it in Jupyter Notebook (my bad) but by the time I realized this, I had already written 500 lines of code.
